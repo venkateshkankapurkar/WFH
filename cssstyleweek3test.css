@@ -1,0 +1,22 @@
+.googletextstyle{
+    color: lightblue;
+    margin-left: 100px;
+    font-family: 'Playfair Display', serif;
+}
+.spacing{
+    margin-top: 100px;
+    
+}
+.firstnamelabelstyle{
+       
+       color: blue;
+}
+.usernamebox{
+    width:382px
+}
+.topspacing{
+    margin-top: 100px
+}
+.h6:hover{
+    text-decoration: none;
+}
